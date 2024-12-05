@@ -15,7 +15,7 @@ Powered by the `watchdog` library, the Downloads Organizer monitors your Downloa
 ---
 
 ## 🎥 Demo
-![Downloads Organizer](https://via.placeholder.com/800x400?text=Downloads+Organizer+Demo)
+![Downloads Organizer](demo.gif)
 
 ---
 
